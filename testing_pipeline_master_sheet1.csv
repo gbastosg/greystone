@@ -1,0 +1,62 @@
+﻿Selected Samples,Campus,ID number,Reg. Status,PEF201 Enroll,PEF201 Grades,PEF201 Session,PEF201 Group,PEF201 Trainer,PEF201 Task 1.1,PEF201 Task 1.2,PEF201 Task 1.3,PEF201 Task 1.4,PEF201 Task 2,PEF201 Task 3,PEF201 Task 4,Full Name
+sample 1,GC Adelaide,av200396,Complete,YES,Completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Rodrigo Dantas Gouveia
+sample 2,GC Adelaide,av200430,Placed,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Valentina Rodriguez Buitrago
+sample 3,GC Adelaide,av200434,Placed,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Leticia Emy Nomura
+sample 4,GC Adelaide,av200534,Placed,YES,Completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Ratee Saisaengjan
+sample 5,GC Brisbane,bv026880,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Completed,Jhoan Stiven Hernandez Serna
+sample 6,GC Brisbane,bv027026,Placed,YES,Completed,202312,PEF201-A3L (1),Amy Zhang,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Tatsanasuang Nualnum
+sample 7,GC Brisbane,bv027045,Placed,YES,Completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Shu-Hua HUNG
+sample 8,GC Brisbane,bv027120,Placed,YES,Completed,202312,PEF201-A3L (1),Amy Zhang,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Kohei Mizumoto
+sample 9,GC Brisbane,bv027142,Complete,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Roberto Carlos Nicolas Ibarra
+sample 10,GC Brisbane,bv027342,Complete,YES,Not completed,202312,PEF201-A3L (1),Amy Zhang,Completed,Completed,Completed,Completed,Completed,Not completed,Completed,Emilio Cesar Barba
+sample 11,GC Brisbane,bv027343,Complete,YES,Not completed,202312,PEF201-A3L (1),Amy Zhang,Completed,Completed,Completed,Completed,Not completed,Not completed,Completed,Sebastian Suarez Diaz de Leon
+sample 12,GC Brisbane,bv027365,Placed,YES,Completed,202312,PEF201-A3L (1),Amy Zhang,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Camila Alves do Sacramento Soares
+sample 13,GC Brisbane,bv027368,Complete,YES,Not completed,202312,PEF201-A4L (1),Gerry Milani,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Completed,Johan Daivinson Lopez Florez
+sample 14,GC Brisbane,bv027464,Complete,YES,Not completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Walter Xavier Chancay Ponce
+sample 15,GC Brisbane,bv027799,Complete,YES,Not completed,202312,PEF201-A3L (1),Amy Zhang,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Gonzalo Illescas Barbudo
+sample 16,GC Melbourne,mv093250,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Not completed,Not completed,Not completed,Dennis Holman Rodriquez Serrano
+sample 17,GC Melbourne,mv094763,Placed,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Paola Andrea Romero Estupinan
+sample 18,GC Melbourne,mv094787,Placed,YES,Completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Diana Marcela Latorre Esparza
+sample 19,GC Melbourne,mv094986,Placed,YES,Completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Julieth Paola Mateus Hernandez
+sample 20,GC Melbourne,mv095211,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Kananda Vitoria Dias
+sample 21,GC Melbourne,mv095328,Placed,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Boonsita Uthairat
+sample 22,GC Melbourne,mv095353,Complete,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Manarom Kaewtecha
+sample 23,GC Melbourne,mv095355,Complete,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Pannawit Katchasuwanmanee
+sample 24,GC Melbourne,mv095403,Complete,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Julia Bressan Pereira
+sample 25,GC Melbourne,mv095507,Placed,YES,Not completed,202312,PEF201-A4L (1),Gerry Milani,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Alondra Julieta Moreno Eliserio
+sample 26,GC Melbourne,mv095624,Complete,YES,Not completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Completed,Completed,Completed,Completed,Not completed,Not completed,Roland Ignacio Giraldo Marin
+sample 27,GC Melbourne,mv095659,Complete,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Johan Sebastian Urrea Rueda
+sample 28,GC Melbourne,mv095696,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Nihal Baymis
+sample 29,GC Melbourne,mv095727,Complete,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Chaninat Sidaengnoi
+sample 30,GC Melbourne,mv095791,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Suwanan Sripet
+sample 31,GC Melbourne,mv095818,Placed,YES,Completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Passakorn Kaenthip
+sample 32,GC Melbourne,mv095823,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Tawan Ploynilpet
+sample 33,GC Melbourne,mv095852,Complete,YES,Not completed,202312,PEF201-F2L (1),Jennifer Sheldon,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Manuel Mateo Alba
+sample 34,GC Melbourne,mv095919,Placed,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Paphawarin Intakeeree
+sample 35,GC Melbourne,mv095942,Placed,YES,Not completed,202312,PEF201-A5L (1),Harjit Singh,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Shunri Sato
+sample 36,GC Melbourne,mv095967,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Daniel Alejandro Ortiz Gomez
+sample 37,GC Melbourne,mv096021,Complete,YES,Not completed,202312,PEF201-A5L (1),Harjit Singh,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Diego Zermeno Viramontes
+sample 38,GC Melbourne,mv096057,Complete,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Eray Sarikaya
+sample 39,GC Melbourne,mv096196,Complete,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Rania Cherif Al Lagmich
+sample 40,GC Melbourne,mv096264,Placed,YES,Not completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Not completed,Not completed,Diana Carolina Mateus Cuadros
+sample 41,GC Melbourne,mv096348,Complete,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Ivanna Santos Rosales
+sample 42,GC Melbourne,mv096398,Complete,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Paola Elisabet Volk
+sample 43,GC Sydney,sv048495,Complete,YES,Completed,202312,N/E,Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Vinicius Kazuo Soares Flor
+sample 44,GC Sydney,sv048666,Complete,YES,Completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Marco Polo Ruiz del Angel
+sample 45,GC Sydney,sv048733,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Completed,Not completed,Completed,Not completed,Jose Geraldo Vieira da Silva Junior
+sample 46,GC Sydney,sv049139,Placed,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Amanda Fidalgo Zogaib Pereira
+sample 47,GC Sydney,sv049271,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Mayron Tadeu Corrent
+sample 48,GC Sydney,sv049379,Complete,YES,Completed,202312,PEF201-A5L (1),Harjit Singh,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Guido Agustin Diaz
+sample 49,GC Sydney,sv049384,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Completed,Completed,Completed,Not completed,Not completed,Not completed,Not completed,Jordi Balague Beltran
+sample 50,GC Sydney,sv049394,Complete,YES,Not completed,202312,PEF201-A3L (1),Amy Zhang,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Silvia Neide Melo Silva
+sample 51,GC Sydney,sv049510,Placed,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Ririka Nagayama
+sample 52,GC Sydney,sv049595,Placed,YES,Completed,202312,PEF201-F1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Emily Hernandez Gonzalez
+sample 53,GC Sydney,sv049604,Placed,YES,Completed,202312,PEF201-F2L (1),Jennifer Sheldon,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Stefany Tavares Diniz
+sample 54,GC Sydney,sv049622,Complete,YES,Not completed,202312,PEF201-A2L (1),Christine Micallef,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Alysson Junio Luciano Moreira
+sample 55,GC Sydney,sv049633,Complete,YES,Not completed,202312,PEF201-A5L (1),Harjit Singh,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Miranda Gallego Martinez
+sample 56,GC Sydney,sv049655,Placed,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Onnida Tantinijkun
+sample 57,GC Sydney,sv049660,Complete,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Jose Maria Valero Delgado
+sample 58,GC Sydney,sv049742,Complete,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Luana Teruel Sevilhano
+sample 59,GC Sydney,sv049791,Placed,YES,Completed,202312,PEF201-A4L (1),Gerry Milani,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Jonathan Cancelada Moreno
+sample 60,GC Sydney,sv049804,Complete,YES,Not completed,202312,PEF201-A4L (1),Gerry Milani,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Not completed,Julian Patricio Lechuga San Martin
+sample 61,GC Sydney,sv049826,Complete,YES,Completed,202312,PEF201-A1L (1),Warwick Clarke,Completed,Completed,Completed,Completed,Completed,Completed,Completed,Berta Carsin Perez
